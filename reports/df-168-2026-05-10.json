@@ -1,0 +1,16 @@
+{
+  "books_active": 0,
+  "completion_pct": {},
+  "df": "DF-168",
+  "iso_timestamp": "2026-05-10T11:26:20.064669+00:00",
+  "last_writing_session": {},
+  "pre_action_verification": {
+    "env_tag": "mock",
+    "missing_anchors": [],
+    "ok": true
+  },
+  "source": "mock",
+  "welle": "25",
+  "words_target_per_book": {},
+  "words_written_total": 0
+}

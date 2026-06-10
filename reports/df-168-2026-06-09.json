@@ -1,0 +1,31 @@
+{
+  "books_active": 4,
+  "completion_pct": {
+    "architecture-doc": 61,
+    "heylou-spec": 15,
+    "heylou-userguide": 0,
+    "lexvance-handbook": 15
+  },
+  "df": "DF-168",
+  "iso_timestamp": "2026-06-09T10:42:30.194432+00:00",
+  "last_writing_session": {
+    "author": "df-168-engine",
+    "book": "architecture-doc",
+    "date": "2026-06-09",
+    "words_added": 0
+  },
+  "pre_action_verification": {
+    "env_tag": "real",
+    "missing_anchors": [],
+    "ok": true
+  },
+  "source": "real",
+  "welle": "25",
+  "words_target_per_book": {
+    "architecture-doc": 15000,
+    "heylou-spec": 28000,
+    "heylou-userguide": 8000,
+    "lexvance-handbook": 45000
+  },
+  "words_written_total": 20200
+}

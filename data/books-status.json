@@ -1,0 +1,22 @@
+{
+  "books_active": 4,
+  "words_written_total": 20200,
+  "words_target_per_book": {
+    "heylou-spec": 28000,
+    "lexvance-handbook": 45000,
+    "architecture-doc": 15000,
+    "heylou-userguide": 8000
+  },
+  "completion_pct": {
+    "heylou-spec": 15,
+    "lexvance-handbook": 15,
+    "architecture-doc": 61,
+    "heylou-userguide": 0
+  },
+  "last_writing_session": {
+    "date": "2026-06-09",
+    "book": "architecture-doc",
+    "words_added": 0,
+    "author": "df-168-engine"
+  }
+}

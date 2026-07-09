@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLLOW",
+  "reason": "Der Test importiert df-168-engine.py und prueft nur generische Engine-/Lock-/Keyword-Helfer, aber keine einzige Funktion aus 168.py wie prime_factors, divisors oder classify_against_168 mit adversarialem Gegenfall.",
+  "ts": "2026-07-08T15:08:59.862828+00:00"
+}
